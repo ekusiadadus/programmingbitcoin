@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 '''
 # tag::exercise2[]
 ==== Exercise 2
